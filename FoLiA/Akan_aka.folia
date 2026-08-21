@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns="http://ilk.uvt.nl/folia" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_Akan" version="2.5.3" generator="foliapy-v2.5.12">
+  <metadata type="native">
+    <annotations>
+      <text-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/text.foliaset.ttl"/>
+      <comment-annotation/>
+      <paragraph-annotation/>
+      <sentence-annotation/>
+      <token-annotation/>
+      <sense-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/text.foliaset.ttl"/>
+      <morphological-annotation/>
+      <lemma-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/lemma.foliaset.xml"/>
+      <pos-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/universal-pos.foliaset.ttl"/>
+    </annotations>
+  </metadata>
+  <text xml:id="_Akan.text.1">
+    <meta tag="title">Akan</meta>
+    <meta tag="source">Sent ID: 453165 | File:examples.csv | Corpus: TypeCraft Akan Corpus as used in CLDF Cookbook https://github.com/cldf/cookbook/blob/master/recipes/igt/cldf/examples.csv</meta>
+    <meta tag="date-created">2026-04-23 20:10:06.604</meta>
+    <meta tag="date-modified">2026-04-23 20:10:06.604</meta>
+    <p xml:id="_Akan.text.1.p.1">
+      <s xml:id="_Akan.text.1.p.1.s.1">
+        <t>nkoadaa fɛfɛɛfɛ no nyinaa ɛɛbayɛ ho na omɔshɛ atadeɛ kɔkɔɔ no</t>
+        <segnum>1</segnum>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.1">
+          <t>nkoadaa</t>
+          <sense class="PL-child.SBJ"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.1.morpheme.1">
+              <t>n-</t>
+              <lemma class="n-"/>
+              <pos class="Attaches to any category"/>
+              <sense class="PL"/>
+            </morpheme>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.1.morpheme.2">
+              <t>akwadaa</t>
+              <lemma class="akwadaa"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="child"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.2">
+          <t>fɛfɛɛfɛ</t>
+          <sense class="beautiful"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.2.morpheme.1">
+              <t>fɛfɛɛfɛ</t>
+              <lemma class="fɛfɛɛfɛ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="beautiful"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.3">
+          <t>no</t>
+          <sense class="DEF"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.3.morpheme.1">
+              <t>no</t>
+              <lemma class="no"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="DEF"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.4">
+          <t>nyinaa</t>
+          <sense class="tall.DEF"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.4.morpheme.1">
+              <t>nyinaa</t>
+              <lemma class="nyinaa"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="tall"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.5">
+          <t>ɛɛbayɛ</t>
+          <sense class="come.VEN be"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.5.morpheme.1">
+              <t>ɛɛ-</t>
+              <lemma class="ɛɛ-"/>
+              <pos class="Attaches to any category"/>
+            </morpheme>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.5.morpheme.2">
+              <t>ba</t>
+              <lemma class="ba"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="come.VEN"/>
+            </morpheme>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.5.morpheme.3">
+              <t>yɛ</t>
+              <lemma class="yɛ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="be"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.6">
+          <t>ho</t>
+          <sense class="there.DXS.PROX"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.6.morpheme.1">
+              <t>ho</t>
+              <lemma class="ho"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="there.DXS.PROX"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.7">
+          <t>na</t>
+          <sense class="FOC"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.7.morpheme.1">
+              <t>na</t>
+              <lemma class="na"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="FOC"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.8">
+          <t>omɔshɛ</t>
+          <sense class="3PL-wear"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.8.morpheme.1">
+              <t>omɔ-</t>
+              <lemma class="omɔ-"/>
+              <pos class="Attaches to any category"/>
+              <sense class="3PL"/>
+            </morpheme>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.8.morpheme.2">
+              <t>shɛ</t>
+              <lemma class="shɛ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="wear"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.9">
+          <t>atadeɛ</t>
+          <sense class="dress"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.9.morpheme.1">
+              <t>atadeɛ</t>
+              <lemma class="atadeɛ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="dress"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.10">
+          <t>kɔkɔɔ</t>
+          <sense class="red"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.10.morpheme.1">
+              <t>kɔkɔɔ</t>
+              <lemma class="kɔkɔɔ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="red"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_Akan.text.1.p.1.s.1.w.11">
+          <t>no</t>
+          <sense class="DEF"/>
+          <morphology>
+            <morpheme xml:id="_Akan.text.1.p.1.s.1.w.11.morpheme.1">
+              <t>no</t>
+              <lemma class="no"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="DEF"/>
+            </morpheme>
+          </morphology>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

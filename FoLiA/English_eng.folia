@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns="http://ilk.uvt.nl/folia" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_WonderfulAbstractNotions" version="2.5.3" generator="foliapy-v2.5.12">
+  <metadata type="native">
+    <annotations>
+      <text-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/text.foliaset.ttl"/>
+      <comment-annotation/>
+      <paragraph-annotation/>
+      <sentence-annotation/>
+      <token-annotation/>
+      <sense-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/text.foliaset.ttl"/>
+      <morphological-annotation/>
+      <lemma-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/lemma.foliaset.xml"/>
+      <pos-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/universal-pos.foliaset.ttl"/>
+    </annotations>
+  </metadata>
+  <text xml:id="_WonderfulAbstractNotions.text.1">
+    <meta tag="title">Wonderful Abstract Notions</meta>
+    <meta tag="source">https://www.linguistics.ucsb.edu/research/santa-barbara-corpus#SBC017</meta>
+    <meta tag="date-created">2026-05-11 13:12:08.931</meta>
+    <meta tag="date-modified">2026-05-15 13:20:47.218</meta>
+    <comment>(human1) Two friends discuss a cartoon called 'The Scientist' that symbolizes the limitations of the scientific method, contrasting unquestioned adherence to the scientific method with Einstein's new ways of doing things, as well as how technology today is soulless and tied to consumerism.</comment>
+    <p xml:id="_WonderfulAbstractNotions.text.1.p.1">
+      <s xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1">
+        <t>And scientists are, are taking such control over the world these days, uh with their n-, you know, not the scientists, but what they 've invented.</t>
+        <segnum>1</segnum>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.1">
+          <t>And</t>
+          <sense class="CC"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.1.morpheme.1">
+              <t>and</t>
+              <lemma class="and"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.2">
+          <t>scientists</t>
+          <sense class="NNS"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.2.morpheme.1">
+              <t>scientists</t>
+              <lemma class="scientists"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.3">
+          <t>are</t>
+          <sense class="VBP"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.3.morpheme.1">
+              <t>are</t>
+              <lemma class="be"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.4">
+          <t>are</t>
+          <sense class="VBP"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.4.morpheme.1">
+              <t>are</t>
+              <lemma class="be"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.5">
+          <t>taking</t>
+          <sense class="VBG.Pres.Part"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.5.morpheme.1">
+              <t>tak</t>
+              <lemma class="take"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.5.morpheme.2">
+              <t>-ing</t>
+              <lemma class="-ing"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Pres.Part"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.6">
+          <t>such</t>
+          <sense class="JJ"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.6.morpheme.1">
+              <t>such</t>
+              <lemma class="such"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.7">
+          <t>control</t>
+          <sense class="NN.Sing"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.7.morpheme.1">
+              <t>control</t>
+              <lemma class="control"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.8">
+          <t>over</t>
+          <sense class="IN"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.8.morpheme.1">
+              <t>over</t>
+              <lemma class="over"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.9">
+          <t>the</t>
+          <sense class="DT.Def.Art"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.9.morpheme.1">
+              <t>the</t>
+              <lemma class="the"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.10">
+          <t>world</t>
+          <sense class="NN.Sing"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.10.morpheme.1">
+              <t>world</t>
+              <lemma class="world"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.11">
+          <t>these</t>
+          <sense class="DT.Plur.Dem"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.11.morpheme.1">
+              <t>these</t>
+              <lemma class="these"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.12">
+          <t>days</t>
+          <sense class="NNS.Plur"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.12.morpheme.1">
+              <t>days</t>
+              <lemma class="days"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.13">
+          <t>uh</t>
+          <sense class="UH"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.13.morpheme.1">
+              <t>uh</t>
+              <lemma class="uh"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.14">
+          <t>with</t>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.14.morpheme.1">
+              <t>with</t>
+              <lemma class="with"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.15">
+          <t>their</t>
+          <sense class="PRP$.Gen.Plur.3.Yes.Prs"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.15.morpheme.1">
+              <t>their</t>
+              <lemma class="their"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.16">
+          <t>n-</t>
+          <sense class="UH"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.16.morpheme.1">
+              <t>n</t>
+              <lemma class="n"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.17">
+          <t>you</t>
+          <sense class="PRP.Nom.Sing.2.Prs"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.17.morpheme.1">
+              <t>you</t>
+              <lemma class="you"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.18">
+          <t>know</t>
+          <sense class="VBP.Ind.Sing.2.Pres.Fin"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.18.morpheme.1">
+              <t>know</t>
+              <lemma class="know"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.19">
+          <t>not</t>
+          <sense class="RB.Neg"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.19.morpheme.1">
+              <t>not</t>
+              <lemma class="not"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.20">
+          <t>the</t>
+          <sense class="DT.Def.Art"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.20.morpheme.1">
+              <t>the</t>
+              <lemma class="the"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.21">
+          <t>scientists</t>
+          <sense class="NNS.Plur"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.21.morpheme.1">
+              <t>scientists</t>
+              <lemma class="scientists"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.21.morpheme.2">
+              <t>-s</t>
+              <lemma class="-s"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Plur"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.22">
+          <t>but</t>
+          <sense class="CC"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.22.morpheme.1">
+              <t>but</t>
+              <lemma class="but"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.23">
+          <t>what</t>
+          <sense class="WP.Rel"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.23.morpheme.1">
+              <t>what</t>
+              <lemma class="what"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.24">
+          <t>they</t>
+          <sense class="PRP.Nom.Plur.3.Prs"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.24.morpheme.1">
+              <t>they</t>
+              <lemma class="they"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.25">
+          <t>'ve</t>
+          <sense class="VBP.Ind.Plur.3.Pres.Fin"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.25.morpheme.1">
+              <t>='ve</t>
+              <lemma class="='ve"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="="/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.26">
+          <t>invented</t>
+          <sense class="VBN.Past.Part"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.26.morpheme.1">
+              <t>invent</t>
+              <lemma class="invent"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.26.morpheme.2">
+              <t>-ed</t>
+              <lemma class="-ed"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Past.Part"/>
+            </morpheme>
+          </morphology>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

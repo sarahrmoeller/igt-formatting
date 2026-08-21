@@ -1,0 +1,1254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns="http://ilk.uvt.nl/folia" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_UTOLAF09Aug12" version="2.5.3" generator="foliapy-v2.5.12">
+  <metadata type="native">
+    <annotations>
+      <text-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/text.foliaset.ttl"/>
+      <comment-annotation/>
+      <paragraph-annotation/>
+      <sentence-annotation/>
+      <token-annotation/>
+    </annotations>
+  </metadata>
+  <text xml:id="_UTOLAF09Aug12.text.1">
+    <meta tag="title">UTOLAF09Aug12</meta>
+    <meta tag="date-created">2026-05-20 14:35:22.279</meta>
+    <meta tag="date-modified">2026-06-01 14:12:23.955</meta>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.1">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.1.s.1">
+        <t>Tąy hǫǫteel niign nats'elsüüh.</t>
+        <segnum>1</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.1.s.1.w.1">
+          <t>Tąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.1.s.1.w.2">
+          <t>hǫǫteel</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.1.s.1.w.3">
+          <t>niign</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.1.s.1.w.4">
+          <t>nats'elsüüh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.2">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.2.s.1">
+        <t>Tąy hǫǫteeł niign nats'elsüüh.</t>
+        <segnum>2</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.2.s.1.w.1">
+          <t>Tąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.2.s.1.w.2">
+          <t>hǫǫteeł</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.2.s.1.w.3">
+          <t>niign</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.2.s.1.w.4">
+          <t>nats'elsüüh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.3">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.3.s.1">
+        <t>nts'ą̈' </t>
+        <segnum>3</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.3.s.1.w.1">
+          <t>nts'ą̈'</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.4">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.4.s.1">
+        <t>Meh nats'elmoo.</t>
+        <segnum>4</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.4.s.1.w.1">
+          <t>Meh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.4.s.1.w.2">
+          <t>nats'elmoo</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.5"/>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.6">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.6.s.1">
+        <t>Tąy hǫǫteeł niign nats'elsüü eh.</t>
+        <segnum>6</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.6.s.1.w.1">
+          <t>Tąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.6.s.1.w.2">
+          <t>hǫǫteeł</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.6.s.1.w.3">
+          <t>niign</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.6.s.1.w.4">
+          <t>nats'elsüü</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.6.s.1.w.5">
+          <t>eh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.7">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.7.s.1">
+        <t>Taylor Highway hǫǫsi'.</t>
+        <segnum>7</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.7.s.1.w.1">
+          <t>Taylor</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.7.s.1.w.2">
+          <t>Highway</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.7.s.1.w.3">
+          <t>hǫǫsi'</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.8">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.8.s.1">
+        <t>Jah t'eey tąy teeł Taylor Highway mǫǫsi'.</t>
+        <segnum>8</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.8.s.1.w.1">
+          <t>Jah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.8.s.1.w.2">
+          <t>t'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.8.s.1.w.3">
+          <t>tąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.8.s.1.w.4">
+          <t>teeł</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.8.s.1.w.5">
+          <t>Taylor</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.8.s.1.w.6">
+          <t>Highway</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.8.s.1.w.7">
+          <t>mǫǫsi'</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.9">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.9.s.1">
+        <t>Ay ishyiit nts'änh noo nats'atdäl eh.</t>
+        <segnum>9</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.9.s.1.w.1">
+          <t>Ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.9.s.1.w.2">
+          <t>ishyiit</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.9.s.1.w.3">
+          <t>nts'änh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.9.s.1.w.4">
+          <t>noo</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.9.s.1.w.5">
+          <t>nats'atdäl</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.9.s.1.w.6">
+          <t>eh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.10">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.10.s.1">
+        <t>T'axoh neeshyah Naambia Niign' hu'ąą dą' nts'ą̈' nats'atdäl eh.</t>
+        <segnum>10</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.10.s.1.w.1">
+          <t>T'axoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.10.s.1.w.2">
+          <t>neeshyah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.10.s.1.w.3">
+          <t>Naambia</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.10.s.1.w.4">
+          <t>Niign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.10.s.1.w.5">
+          <t>hu'ąą</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.10.s.1.w.6">
+          <t>dą'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.10.s.1.w.7">
+          <t>nts'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.10.s.1.w.8">
+          <t>nats'atdäl</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.10.s.1.w.9">
+          <t>eh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.11">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.11.s.1">
+        <t>Dahdǫǫ shoh dat-sąy kah hach'edagn'įį'.</t>
+        <segnum>11</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.11.s.1.w.1">
+          <t>Dahdǫǫ</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.11.s.1.w.2">
+          <t>shoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.11.s.1.w.3">
+          <t>dat</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.11.s.1.w.4">
+          <t>sąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.11.s.1.w.5">
+          <t>kah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.11.s.1.w.6">
+          <t>hach'edagn'įį'</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.12">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.12.s.1">
+        <t>Ay chih ts'eldeeł.</t>
+        <segnum>12</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.12.s.1.w.1">
+          <t>Ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.12.s.1.w.2">
+          <t>chih</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.12.s.1.w.3">
+          <t>ts'eldeeł</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.13">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.13.s.1">
+        <t>Noołuut tah elk'ah, ushyi' nsǫǫ!</t>
+        <segnum>13</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.13.s.1.w.1">
+          <t>Noołuut</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.13.s.1.w.2">
+          <t>tah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.13.s.1.w.3">
+          <t>elk'ah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.13.s.1.w.4">
+          <t>ushyi'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.13.s.1.w.5">
+          <t>nsǫǫ</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.14">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.14.s.1">
+        <t>Ay tl'aan dǫǫ nats'atdäl eh.</t>
+        <segnum>14</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.14.s.1.w.1">
+          <t>Ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.14.s.1.w.2">
+          <t>tl'aan</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.14.s.1.w.3">
+          <t>dǫǫ</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.14.s.1.w.4">
+          <t>nats'atdäl</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.14.s.1.w.5">
+          <t>eh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.15">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.15.s.1">
+        <t>Jah tąy k'üü noodlee iin nah'ogn tourist huhinay iin hushyah choh heetąą nts'ą̈'.</t>
+        <segnum>15</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.1">
+          <t>Jah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.2">
+          <t>tąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.3">
+          <t>k'üü</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.4">
+          <t>noodlee</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.5">
+          <t>iin</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.6">
+          <t>nah'ogn</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.7">
+          <t>tourist</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.8">
+          <t>huhinay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.9">
+          <t>iin</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.10">
+          <t>hushyah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.11">
+          <t>choh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.12">
+          <t>heetąą</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.15.s.1.w.13">
+          <t>nts'ą̈'</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.16">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.16.s.1">
+        <t>Ch'itay &lt;du'&gt;, ch'ikąy' u'aat eh ishyiit nahideeh nts'ą̈' /picture/ shoh dat-sąy eh ehtsayh.</t>
+        <segnum>16</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.1">
+          <t>Ch'itay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.2">
+          <t>du'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.3">
+          <t>ch'ikąy'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.4">
+          <t>u'aat</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.5">
+          <t>eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.6">
+          <t>ishyiit</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.7">
+          <t>nahideeh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.8">
+          <t>nts'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.9">
+          <t>picture</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.10">
+          <t>shoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.11">
+          <t>dat</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.12">
+          <t>sąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.13">
+          <t>eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.16.s.1.w.14">
+          <t>ehtsayh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.17">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.17.s.1">
+        <t>Ha'atthiit shoh dat-sąy its'ą̈' na'ithät hatnagn'ąy eh.</t>
+        <segnum>17</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.17.s.1.w.1">
+          <t>Ha'atthiit</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.17.s.1.w.2">
+          <t>shoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.17.s.1.w.3">
+          <t>dat</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.17.s.1.w.4">
+          <t>sąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.17.s.1.w.5">
+          <t>its'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.17.s.1.w.6">
+          <t>na'ithät</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.17.s.1.w.7">
+          <t>hatnagn'ąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.17.s.1.w.8">
+          <t>eh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.18">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.18.s.1">
+        <t>Roy naksä:::::ł.</t>
+        <segnum>18</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.18.s.1.w.1">
+          <t>Roy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.18.s.1.w.2">
+          <t>naksä</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.18.s.1.w.3">
+          <t>ł</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.19">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.19.s.1">
+        <t>&lt;&lt;"Nih'įh? </t>
+        <segnum>19.1</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.19.s.1.w.1">
+          <t>Nih'įh</t>
+        </w>
+      </s>
+      <s xml:id="_UTOLAF09Aug12.text.1.p.19.s.2">
+        <t>Nih'įh?"&gt;&gt;</t>
+        <segnum>19.2</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.19.s.2.w.1">
+          <t>Nih'įh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.20">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.20.s.1">
+        <t>"Tthee! </t>
+        <segnum>20.1</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.20.s.1.w.1">
+          <t>Tthee</t>
+        </w>
+      </s>
+      <s xml:id="_UTOLAF09Aug12.text.1.p.20.s.2">
+        <t>Jah du' stop!"</t>
+        <segnum>20.2</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.20.s.2.w.1">
+          <t>Jah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.20.s.2.w.2">
+          <t>du'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.20.s.2.w.3">
+          <t>stop</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.21">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.21.s.1">
+        <t>Roy t'oot'eey ah ay t'oot'eey hǫǫ't'eey ch'aałäł.</t>
+        <segnum>21</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.21.s.1.w.1">
+          <t>Roy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.21.s.1.w.2">
+          <t>t'oot'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.21.s.1.w.3">
+          <t>ah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.21.s.1.w.4">
+          <t>ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.21.s.1.w.5">
+          <t>t'oot'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.21.s.1.w.6">
+          <t>hǫǫ't'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.21.s.1.w.7">
+          <t>ch'aałäł</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.22">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.22.s.1">
+        <t>Eh naksä:::l eh.</t>
+        <segnum>22</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.22.s.1.w.1">
+          <t>Eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.22.s.1.w.2">
+          <t>naksä</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.22.s.1.w.3">
+          <t>l</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.22.s.1.w.4">
+          <t>eh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.23">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.23.s.1">
+        <t>T'axoh &lt;nich'inįįłaat&gt; ay tl'aan.</t>
+        <segnum>23</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.23.s.1.w.1">
+          <t>T'axoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.23.s.1.w.2">
+          <t>nich'inįįłaat</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.23.s.1.w.3">
+          <t>ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.23.s.1.w.4">
+          <t>tl'aan</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.24">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.24.s.1">
+        <t>K'at'eey k'at'eey &lt;nich'ihniitl'aadn&gt; iltsiil nts'ą̈' t'eey än' tinagntthät k'a' eh.</t>
+        <segnum>24</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.24.s.1.w.1">
+          <t>K'at'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.24.s.1.w.2">
+          <t>k'at'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.24.s.1.w.3">
+          <t>nich'ihniitl'aadn</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.24.s.1.w.4">
+          <t>iltsiil</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.24.s.1.w.5">
+          <t>nts'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.24.s.1.w.6">
+          <t>t'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.24.s.1.w.7">
+          <t>än'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.24.s.1.w.8">
+          <t>tinagntthät</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.24.s.1.w.9">
+          <t>k'a'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.24.s.1.w.10">
+          <t>eh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.25">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.25.s.1">
+        <t>Naxat dineh ch'ishyiign ehxaan shoh dat-sąy ay du' k'at'eey minaniich'akthädn nts'ą̈'.</t>
+        <segnum>25</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.1">
+          <t>Naxat</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.2">
+          <t>dineh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.3">
+          <t>ch'ishyiign</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.4">
+          <t>ehxaan</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.5">
+          <t>shoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.6">
+          <t>dat</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.7">
+          <t>sąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.8">
+          <t>ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.9">
+          <t>du'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.10">
+          <t>k'at'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.11">
+          <t>minaniich'akthädn</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.25.s.1.w.12">
+          <t>nts'ą̈'</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.26">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.26.s.1">
+        <t>Shoh shoh nts'ą̈' agntthäl &lt;eh&gt;.</t>
+        <segnum>26</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.26.s.1.w.1">
+          <t>Shoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.26.s.1.w.2">
+          <t>shoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.26.s.1.w.3">
+          <t>nts'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.26.s.1.w.4">
+          <t>agntthäl</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.26.s.1.w.5">
+          <t>eh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.27">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.27.s.1">
+        <t>Agntthäł nts'ą̈' uu'akdiih.</t>
+        <segnum>27</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.27.s.1.w.1">
+          <t>Agntthäł</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.27.s.1.w.2">
+          <t>nts'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.27.s.1.w.3">
+          <t>uu'akdiih</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.28">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.28.s.1">
+        <t>Ay [laughs] dhakday eh hanuhshyign' tüh sdzina'altth'ät.</t>
+        <segnum>28</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.28.s.1.w.1">
+          <t>Ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.28.s.1.w.2">
+          <t>laughs</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.28.s.1.w.3">
+          <t>dhakday</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.28.s.1.w.4">
+          <t>eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.28.s.1.w.5">
+          <t>hanuhshyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.28.s.1.w.6">
+          <t>tüh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.28.s.1.w.7">
+          <t>sdzina'altth'ät</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.29">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.29.s.1">
+        <t>Atthän' uu'agntthäł.</t>
+        <segnum>29</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.29.s.1.w.1">
+          <t>Atthän'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.29.s.1.w.2">
+          <t>uu'agntthäł</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.30">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.30.s.1">
+        <t>Eh t'eey neeshye' Howard neek'eh t'eey niich'inįhłaat.</t>
+        <segnum>30</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.30.s.1.w.1">
+          <t>Eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.30.s.1.w.2">
+          <t>t'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.30.s.1.w.3">
+          <t>neeshye'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.30.s.1.w.4">
+          <t>Howard</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.30.s.1.w.5">
+          <t>neek'eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.30.s.1.w.6">
+          <t>t'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.30.s.1.w.7">
+          <t>niich'inįhłaat</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.31">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.31.s.1">
+        <t>Ay du': "Dii? </t>
+        <segnum>31.1</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.31.s.1.w.1">
+          <t>Ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.31.s.1.w.2">
+          <t>du'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.31.s.1.w.3">
+          <t>Dii</t>
+        </w>
+      </s>
+      <s xml:id="_UTOLAF09Aug12.text.1.p.31.s.2">
+        <t>Dii? </t>
+        <segnum>31.2</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.31.s.2.w.1">
+          <t>Dii</t>
+        </w>
+      </s>
+      <s xml:id="_UTOLAF09Aug12.text.1.p.31.s.3">
+        <t>Dii ch'a dįh'ąy?"</t>
+        <segnum>31.3</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.31.s.3.w.1">
+          <t>Dii</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.31.s.3.w.2">
+          <t>ch'a</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.31.s.3.w.3">
+          <t>dįh'ąy</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.32">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.32.s.1">
+        <t>"Shoh!"</t>
+        <segnum>32</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.32.s.1.w.1">
+          <t>Shoh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.33">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.33.s.1">
+        <t>``Dhakdayh hanuhshyign' tah dzina'altth'ät."</t>
+        <segnum>33</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.33.s.1.w.1">
+          <t>``Dhakdayh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.33.s.1.w.2">
+          <t>hanuhshyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.33.s.1.w.3">
+          <t>tah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.33.s.1.w.4">
+          <t>dzina'altth'ät</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.34">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.34.s.1">
+        <t>Nuhshyign' ik'eh teltthät ikooneh'įh.</t>
+        <segnum>34</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.34.s.1.w.1">
+          <t>Nuhshyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.34.s.1.w.2">
+          <t>ik'eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.34.s.1.w.3">
+          <t>teltthät</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.34.s.1.w.4">
+          <t>ikooneh'įh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.35">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.35.s.1">
+        <t>"Nday? </t>
+        <segnum>35.1</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.35.s.1.w.1">
+          <t>Nday</t>
+        </w>
+      </s>
+      <s xml:id="_UTOLAF09Aug12.text.1.p.35.s.2">
+        <t>Nday?" </t>
+        <segnum>35.2</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.35.s.2.w.1">
+          <t>Nday</t>
+        </w>
+      </s>
+      <s xml:id="_UTOLAF09Aug12.text.1.p.35.s.3">
+        <t>nih, mookol ashyign' eh.</t>
+        <segnum>35.3</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.35.s.3.w.1">
+          <t>nih</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.35.s.3.w.2">
+          <t>mookol</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.35.s.3.w.3">
+          <t>ashyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.35.s.3.w.4">
+          <t>eh</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.36">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.36.s.1">
+        <t>Nushyign', tth'itu' nįįłąy ddhäł dą' nt'ay nushyign' tah eedah.</t>
+        <segnum>36</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.36.s.1.w.1">
+          <t>Nushyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.36.s.1.w.2">
+          <t>tth'itu'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.36.s.1.w.3">
+          <t>nįįłąy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.36.s.1.w.4">
+          <t>ddhäł</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.36.s.1.w.5">
+          <t>dą'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.36.s.1.w.6">
+          <t>nt'ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.36.s.1.w.7">
+          <t>nushyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.36.s.1.w.8">
+          <t>tah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.36.s.1.w.9">
+          <t>eedah</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.37">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.37.s.1">
+        <t>Utthi' da' ne', shoh ch'a.</t>
+        <segnum>37</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.37.s.1.w.1">
+          <t>Utthi'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.37.s.1.w.2">
+          <t>da'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.37.s.1.w.3">
+          <t>ne'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.37.s.1.w.4">
+          <t>shoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.37.s.1.w.5">
+          <t>ch'a</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.38">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.38.s.1">
+        <t>Eh its'ą̈' telthät tl'aan nahiidhehxiin nuhshyign' tah.</t>
+        <segnum>38</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.38.s.1.w.1">
+          <t>Eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.38.s.1.w.2">
+          <t>its'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.38.s.1.w.3">
+          <t>telthät</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.38.s.1.w.4">
+          <t>tl'aan</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.38.s.1.w.5">
+          <t>nahiidhehxiin</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.38.s.1.w.6">
+          <t>nuhshyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.38.s.1.w.7">
+          <t>tah</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.39">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.39.s.1">
+        <t>Ndüü:::::h!</t>
+        <segnum>39</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.39.s.1.w.1">
+          <t>Ndüü</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.39.s.1.w.2">
+          <t>h</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.40">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.40.s.1">
+        <t>Ch'itay ch'a [laughs] ch'ishyiign eh ehxaan du':</t>
+        <segnum>40</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.40.s.1.w.1">
+          <t>Ch'itay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.40.s.1.w.2">
+          <t>ch'a</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.40.s.1.w.3">
+          <t>laughs</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.40.s.1.w.4">
+          <t>ch'ishyiign</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.40.s.1.w.5">
+          <t>eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.40.s.1.w.6">
+          <t>ehxaan</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.40.s.1.w.7">
+          <t>du'</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.41">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.41.s.1">
+        <t>"Shoh aldeeł?"</t>
+        <segnum>41</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.41.s.1.w.1">
+          <t>Shoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.41.s.1.w.2">
+          <t>aldeeł</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.42">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.42.s.1">
+        <t>"Shoh aldeeł dii xah ch'a dįh'ąy?" </t>
+        <segnum>42.1</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.42.s.1.w.1">
+          <t>Shoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.42.s.1.w.2">
+          <t>aldeeł</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.42.s.1.w.3">
+          <t>dii</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.42.s.1.w.4">
+          <t>xah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.42.s.1.w.5">
+          <t>ch'a</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.42.s.1.w.6">
+          <t>dįh'ąy</t>
+        </w>
+      </s>
+      <s xml:id="_UTOLAF09Aug12.text.1.p.42.s.2">
+        <t>shehnih.</t>
+        <segnum>42.2</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.42.s.2.w.1">
+          <t>shehnih</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.43">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.43.s.1">
+        <t>"Ąą, shiy ch'ale agndeel," udihnih.</t>
+        <segnum>43</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.43.s.1.w.1">
+          <t>Ąą</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.43.s.1.w.2">
+          <t>shiy</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.43.s.1.w.3">
+          <t>ch'ale</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.43.s.1.w.4">
+          <t>agndeel</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.43.s.1.w.5">
+          <t>udihnih</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.44">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.44.s.1">
+        <t>K'at'eey minaniich'akthädn eh ay du' agnthäł nts'ą̈' t'eey uu'akdiih ch'ale.</t>
+        <segnum>44</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.44.s.1.w.1">
+          <t>K'at'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.44.s.1.w.2">
+          <t>minaniich'akthädn</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.44.s.1.w.3">
+          <t>eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.44.s.1.w.4">
+          <t>ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.44.s.1.w.5">
+          <t>du'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.44.s.1.w.6">
+          <t>agnthäł</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.44.s.1.w.7">
+          <t>nts'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.44.s.1.w.8">
+          <t>t'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.44.s.1.w.9">
+          <t>uu'akdiih</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.44.s.1.w.10">
+          <t>ch'ale</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.45">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.45.s.1">
+        <t>Ch'itay du' k'at'eey minaniich'akthädn.</t>
+        <segnum>45</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.45.s.1.w.1">
+          <t>Ch'itay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.45.s.1.w.2">
+          <t>du'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.45.s.1.w.3">
+          <t>k'at'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.45.s.1.w.4">
+          <t>minaniich'akthädn</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.46">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.46.s.1">
+        <t>Shuudehka:::t.</t>
+        <segnum>46</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.46.s.1.w.1">
+          <t>Shuudehka</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.46.s.1.w.2">
+          <t>t</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.47">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.47.s.1">
+        <t>"Nday? </t>
+        <segnum>47.1</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.47.s.1.w.1">
+          <t>Nday</t>
+        </w>
+      </s>
+      <s xml:id="_UTOLAF09Aug12.text.1.p.47.s.2">
+        <t>Nday?"</t>
+        <segnum>47.2</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.47.s.2.w.1">
+          <t>Nday</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.48">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.48.s.1">
+        <t>"Ndee nushyign', tamaagn nts'ą̈' nushyign' tu tth'itu' nts'ą̈' tah shoh eedah."</t>
+        <segnum>48</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.1">
+          <t>Ndee</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.2">
+          <t>nushyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.3">
+          <t>tamaagn</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.4">
+          <t>nts'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.5">
+          <t>nushyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.6">
+          <t>tu</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.7">
+          <t>tth'itu'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.8">
+          <t>nts'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.9">
+          <t>tah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.10">
+          <t>shoh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.48.s.1.w.11">
+          <t>eedah</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.49">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.49.s.1">
+        <t>"Maa ni'uhshya' nts'ą̈' nok-'įį!" </t>
+        <segnum>49.1</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.49.s.1.w.1">
+          <t>Maa</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.49.s.1.w.2">
+          <t>ni'uhshya'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.49.s.1.w.3">
+          <t>nts'ą̈'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.49.s.1.w.4">
+          <t>nok</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.49.s.1.w.5">
+          <t>'įį</t>
+        </w>
+      </s>
+      <s xml:id="_UTOLAF09Aug12.text.1.p.49.s.2">
+        <t>nih.</t>
+        <segnum>49.2</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.49.s.2.w.1">
+          <t>nih</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.50">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.50.s.1">
+        <t>"Ayt'oo, ayt'oo," udihnih.</t>
+        <segnum>50</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.50.s.1.w.1">
+          <t>Ayt'oo</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.50.s.1.w.2">
+          <t>ayt'oo</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.50.s.1.w.3">
+          <t>udihnih</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.51">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.51.s.1">
+        <t>Nushyign' tah ts'aahaal.</t>
+        <segnum>51</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.51.s.1.w.1">
+          <t>Nushyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.51.s.1.w.2">
+          <t>tah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.51.s.1.w.3">
+          <t>ts'aahaal</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.52">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.52.s.1">
+        <t>Howard iin du' nushyign' tah hiik'anehta'.</t>
+        <segnum>52</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.52.s.1.w.1">
+          <t>Howard</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.52.s.1.w.2">
+          <t>iin</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.52.s.1.w.3">
+          <t>du'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.52.s.1.w.4">
+          <t>nushyign'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.52.s.1.w.5">
+          <t>tah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.52.s.1.w.6">
+          <t>hiik'anehta'</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.53">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.53.s.1">
+        <t>&lt;Ay&gt; ch'itay eh huxah ninįįshyah tl'aan nduugn nts'ą' natetshyah le' ishyiit nts'ą', k'at'eey udakkadn.</t>
+        <segnum>53</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.1">
+          <t>Ay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.2">
+          <t>ch'itay</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.3">
+          <t>eh</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.4">
+          <t>huxah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.5">
+          <t>ninįįshyah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.6">
+          <t>tl'aan</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.7">
+          <t>nduugn</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.8">
+          <t>nts'ą'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.9">
+          <t>natetshyah</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.10">
+          <t>le'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.11">
+          <t>ishyiit</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.12">
+          <t>nts'ą'</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.13">
+          <t>k'at'eey</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.53.s.1.w.14">
+          <t>udakkadn</t>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_UTOLAF09Aug12.text.1.p.54">
+      <s xml:id="_UTOLAF09Aug12.text.1.p.54.s.1">
+        <t>Ayt'oo t'axoh.</t>
+        <segnum>54</segnum>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.54.s.1.w.1">
+          <t>Ayt'oo</t>
+        </w>
+        <w xml:id="_UTOLAF09Aug12.text.1.p.54.s.1.w.2">
+          <t>t'axoh</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

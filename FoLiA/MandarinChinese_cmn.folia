@@ -1,0 +1,233 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns="http://ilk.uvt.nl/folia" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_4290" version="2.5.3" generator="foliapy-v2.5.12">
+  <metadata type="native">
+    <annotations>
+      <text-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/text.foliaset.ttl"/>
+      <comment-annotation/>
+      <paragraph-annotation/>
+      <sentence-annotation/>
+      <token-annotation/>
+      <sense-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/text.foliaset.ttl"/>
+      <morphological-annotation/>
+      <lemma-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/lemma.foliaset.xml"/>
+      <pos-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/universal-pos.foliaset.ttl"/>
+    </annotations>
+  </metadata>
+  <text xml:id="_4290.text.1">
+    <meta tag="title">4290</meta>
+    <meta tag="source">https://resources.allsetlearning.com/chinese/grammar/ASGYXI5X</meta>
+    <meta tag="date-created">2026-05-12 13:46:43.594</meta>
+    <meta tag="date-modified">2026-05-15 13:25:18.767</meta>
+    <comment>Providing two options with double "huozhe"</comment>
+    <p xml:id="_4290.text.1.p.1">
+      <s xml:id="_4290.text.1.p.1.s.1">
+        <t>我 想 了 很 久，这 个 答案 或者 是 三 十，或者 是 四 十，对 不 对？</t>
+        <segnum>1</segnum>
+        <w xml:id="_4290.text.1.p.1.s.1.w.1">
+          <t>我</t>
+          <sense class="1"/>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.1.morpheme.1">
+              <t>我</t>
+              <lemma class="我"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="1SG"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.2">
+          <t>想</t>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.2.morpheme.1">
+              <t>想</t>
+              <lemma class="想"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.3">
+          <t>了</t>
+          <sense class="PFV"/>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.3.morpheme.1">
+              <t>了</t>
+              <lemma class="了"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="PFV"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.4">
+          <t>很</t>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.4.morpheme.1">
+              <t>很</t>
+              <lemma class="很"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.5">
+          <t>久</t>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.5.morpheme.1">
+              <t>久</t>
+              <lemma class="久"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.6">
+          <t>这</t>
+          <sense class="DEM.PROX"/>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.6.morpheme.1">
+              <t>这</t>
+              <lemma class="这"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="DEM.PROX"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.7">
+          <t>个</t>
+          <sense class="CLF"/>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.7.morpheme.1">
+              <t>个</t>
+              <lemma class="个"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="CLF"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.8">
+          <t>答案</t>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.8.morpheme.1">
+              <t>答案</t>
+              <lemma class="答案"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.9">
+          <t>或者</t>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.9.morpheme.1">
+              <t>或者</t>
+              <lemma class="或者"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.10">
+          <t>是</t>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.10.morpheme.1">
+              <t>是</t>
+              <lemma class="是"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.11">
+          <t>三</t>
+          <sense class="CARD"/>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.11.morpheme.1">
+              <t>三</t>
+              <lemma class="三"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.12">
+          <t>十</t>
+          <sense class="CARD"/>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.12.morpheme.1">
+              <t>十</t>
+              <lemma class="十"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.13">
+          <t>或者</t>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.13.morpheme.1">
+              <t>或者</t>
+              <lemma class="或者"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.14">
+          <t>是</t>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.14.morpheme.1">
+              <t>是</t>
+              <lemma class="是"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.15">
+          <t>四</t>
+          <sense class="CARD"/>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.15.morpheme.1">
+              <t>四</t>
+              <lemma class="四"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.16">
+          <t>十</t>
+          <sense class="CARD"/>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.16.morpheme.1">
+              <t>十</t>
+              <lemma class="十"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.17">
+          <t>对</t>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.17.morpheme.1">
+              <t>对</t>
+              <lemma class="对"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.18">
+          <t>不</t>
+          <sense class="NEG"/>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.18.morpheme.1">
+              <t>不</t>
+              <lemma class="不"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="NEG"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_4290.text.1.p.1.s.1.w.19">
+          <t>对</t>
+          <morphology>
+            <morpheme xml:id="_4290.text.1.p.1.s.1.w.19.morpheme.1">
+              <t>对</t>
+              <lemma class="对"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

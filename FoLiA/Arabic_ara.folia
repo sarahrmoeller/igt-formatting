@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns="http://ilk.uvt.nl/folia" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_assabah200410050017p2u1" version="2.5.3" generator="foliapy-v2.5.12">
+  <metadata type="native">
+    <annotations>
+      <text-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/text.foliaset.ttl"/>
+      <comment-annotation/>
+      <paragraph-annotation/>
+      <sentence-annotation/>
+      <token-annotation/>
+      <sense-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/text.foliaset.ttl"/>
+      <morphological-annotation/>
+      <lemma-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/lemma.foliaset.xml"/>
+      <pos-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/universal-pos.foliaset.ttl"/>
+    </annotations>
+  </metadata>
+  <text xml:id="_assabah200410050017p2u1.text.1">
+    <meta tag="title">assabah.20041005.0017:p2u1</meta>
+    <meta tag="source">ASB_ARB_20041005.0017#2</meta>
+    <meta tag="date-created">2026-05-12 16:51:39.723</meta>
+    <meta tag="date-modified">2026-05-12 18:39:16.304</meta>
+    <p xml:id="_assabah200410050017p2u1.text.1.p.1">
+      <s xml:id="_assabah200410050017p2u1.text.1.p.1.s.1">
+        <t>دمشق (وكالات الانباء) - اجرى الرئيس السوري بشار الاسد تعديلا حكومياً واسعا تم بموجبه إقالة وزيري الداخلية والاعلام عن منصبيها في حين ظل محمد ناجي العطري رئيساً للحكومة.</t>
+        <segnum>1</segnum>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.1">
+          <t>دمشق</t>
+          <sense class="Damascus"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.1.morpheme.1">
+              <t>دمشق</t>
+              <lemma class="دمشق"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="Damascus"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.2">
+          <t>وكالات</t>
+          <sense class="NOM.CONSTR.PL"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.2.morpheme.1">
+              <t>وكال</t>
+              <lemma class="وكالة"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="agency"/>
+            </morpheme>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.2.morpheme.2">
+              <t>-ات</t>
+              <lemma class="-ات"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Fem.Plur"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.3">
+          <t>الانباء</t>
+          <sense class="GEN.DEF.PL"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.3.morpheme.1">
+              <t>الانباء</t>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.4">
+          <t>اجرى</t>
+          <sense class="PFV.MASC.SG.3.ACT"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.4.morpheme.1">
+              <t>اجرى</t>
+              <lemma class="اجرى"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="carry out"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.5">
+          <t>الرئيس</t>
+          <sense class="NOM.DEF.SG"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.5.morpheme.1">
+              <t>رئيس</t>
+              <lemma class="رئيس"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.6">
+          <t>السوري</t>
+          <sense class="Syrian"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.6.morpheme.1">
+              <t>السوري</t>
+              <lemma class="سوري"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="Syrian"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.7">
+          <t>بشار الاسد</t>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.7.morpheme.1">
+              <t>بشار</t>
+            </morpheme>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.7.morpheme.2">
+              <t>الاسد</t>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.8">
+          <t>تعديلا</t>
+          <sense class="ACC.NDEF.SG"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.8.morpheme.1">
+              <t>تعديل</t>
+              <lemma class="تعديل"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="change"/>
+            </morpheme>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.8.morpheme.2">
+              <t>-ا</t>
+              <lemma class="-اً"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Acc"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.9">
+          <t>حكومياً</t>
+          <sense class="ACC.NDEF.MASC.SG"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.9.morpheme.1">
+              <t>حكومي</t>
+              <lemma class="حكومي"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="governmental"/>
+            </morpheme>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.9.morpheme.2">
+              <t>-اً</t>
+              <lemma class="-اً"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Acc"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.10">
+          <t>واسعا</t>
+          <sense class="ACC.NDEF.MASC.SG"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.10.morpheme.1">
+              <t>واسع</t>
+              <lemma class="واسع"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="wide"/>
+            </morpheme>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.10.morpheme.2">
+              <t>-ا</t>
+              <lemma class="-اً"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Acc"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.11">
+          <t>تم</t>
+          <sense class="PFV.MASC.SG.3.ACT"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.11.morpheme.1">
+              <t>تم</t>
+              <lemma class="تم"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="conclude"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.12">
+          <t>بموجبه</t>
+          <sense class="reason"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.12.morpheme.1">
+              <t>بموجبه</t>
+              <lemma class="موجب"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="reason"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.13">
+          <t>إقالة</t>
+          <sense class="NOM.CONST.SG"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.13.morpheme.1">
+              <t>إقالة</t>
+              <lemma class="إقالة"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="dismissal"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.14">
+          <t>وزيري</t>
+          <sense class="GEN.CONST.DU"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.14.morpheme.1">
+              <t>وزير</t>
+              <lemma class="وزير"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="minister"/>
+            </morpheme>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.14.morpheme.2">
+              <t>-ي</t>
+              <lemma class="-ي"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Dual"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.15">
+          <t>الداخلية</t>
+          <sense class="internal"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.15.morpheme.1">
+              <t>الداخلية</t>
+              <lemma class="داخلي"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="internal"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.16">
+          <t>والاعلام</t>
+          <sense class="and"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.16.morpheme.1">
+              <t>و</t>
+              <lemma class="و"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="and"/>
+            </morpheme>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.16.morpheme.2">
+              <t>الاعلام</t>
+              <lemma class="اعلام"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="information"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.17">
+          <t>عن</t>
+          <sense class="PREP"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.17.morpheme.1">
+              <t>عن</t>
+              <lemma class="عن"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="about"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.18">
+          <t>منصبيها</t>
+          <sense class="post"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.18.morpheme.1">
+              <t>منصبيها</t>
+              <lemma class="منصب"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="post"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.19">
+          <t>في</t>
+          <sense class="PREP"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.19.morpheme.1">
+              <t>في</t>
+              <lemma class="في"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="in"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.20">
+          <t>حين</t>
+          <sense class="PREP.GEN"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.20.morpheme.1">
+              <t>حين</t>
+              <lemma class="حين"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="when"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.21">
+          <t>ظل</t>
+          <sense class="PFV.MASC.SG.3.ACT"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.21.morpheme.1">
+              <t>ظل</t>
+              <lemma class="ظل"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="remain"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.22">
+          <t>محمد ناجي العطري</t>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.22.morpheme.1">
+              <t>محمد</t>
+            </morpheme>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.22.morpheme.2">
+              <t>ناجي</t>
+            </morpheme>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.22.morpheme.3">
+              <t>العطري</t>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.23">
+          <t>رئيساً</t>
+          <sense class="ACC.NDEF.SG"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.23.morpheme.1">
+              <t>رئيس</t>
+              <lemma class="رئيس"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="president"/>
+            </morpheme>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.23.morpheme.2">
+              <t>-اً</t>
+              <lemma class="-اً"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Acc"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.24">
+          <t>للحكومة</t>
+          <sense class="government"/>
+          <morphology>
+            <morpheme xml:id="_assabah200410050017p2u1.text.1.p.1.s.1.w.24.morpheme.1">
+              <t>للحكومة</t>
+              <lemma class="حكومة"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="government"/>
+            </morpheme>
+          </morphology>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

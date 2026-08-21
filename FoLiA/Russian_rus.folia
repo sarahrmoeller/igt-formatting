@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns="http://ilk.uvt.nl/folia" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_WonderfulAbstractNotions" version="2.5.3" generator="foliapy-v2.5.12">
+  <metadata type="native">
+    <annotations>
+      <text-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/text.foliaset.ttl"/>
+      <comment-annotation/>
+      <paragraph-annotation/>
+      <sentence-annotation/>
+      <token-annotation/>
+      <sense-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/text.foliaset.ttl"/>
+      <morphological-annotation/>
+      <lemma-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/lemma.foliaset.xml"/>
+      <pos-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/universal-pos.foliaset.ttl"/>
+    </annotations>
+  </metadata>
+  <text xml:id="_WonderfulAbstractNotions.text.1">
+    <meta tag="title">Wonderful Abstract Notions</meta>
+    <meta tag="date-created">2026-05-12 14:21:18.095</meta>
+    <meta tag="date-modified">2026-05-12 14:23:24.750</meta>
+    <p xml:id="_WonderfulAbstractNotions.text.1.p.1">
+      <s xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1">
+        <t>Ещё зимой в армиях ДНР и ЛНР было более 500 танков и тысяча боевых бронированных машин</t>
+        <segnum>1</segnum>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.1">
+          <t>Ещё</t>
+          <sense class="POS"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.1.morpheme.1">
+              <t>ещё</t>
+              <lemma class="еще"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="POS"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.2">
+          <t>зимой</t>
+          <sense class="Inan.Ins.Fem.Sing"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.2.morpheme.1">
+              <t>зим</t>
+              <lemma class="зима"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.2.morpheme.2">
+              <t>-ой</t>
+              <lemma class="-ой"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Inan.Ins.Fem.Sing"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.3">
+          <t>в</t>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.3.morpheme.1">
+              <t>в</t>
+              <lemma class="в"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.4">
+          <t>армиях</t>
+          <sense class="Inan.Loc.Fem.Plur"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.4.morpheme.1">
+              <t>арми</t>
+              <lemma class="армия"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.4.morpheme.2">
+              <t>-ях</t>
+              <lemma class="-ях"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Inan.Loc.Fem.Plur"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.5">
+          <t>ДНР</t>
+          <sense class="Yes.Geo"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.5.morpheme.1">
+              <t>ДНР</t>
+              <lemma class="ДНР"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.6">
+          <t>и</t>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.6.morpheme.1">
+              <t>и</t>
+              <lemma class="и"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.7">
+          <t>ЛНР</t>
+          <sense class="Yes.Geo"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.7.morpheme.1">
+              <t>ЛНР</t>
+              <lemma class="ЛНР"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.8">
+          <t>было</t>
+          <sense class="Imp.Neut.Ind.Sing.Past.Fin.Act"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.8.morpheme.1">
+              <t>было</t>
+              <lemma class="быть"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.9">
+          <t>более</t>
+          <sense class="Cmp.Tot"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.9.morpheme.1">
+              <t>более</t>
+              <lemma class="более"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.10">
+          <t>500</t>
+          <sense class="Digit.Card"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.10.morpheme.1">
+              <t>500</t>
+              <lemma class="500"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.11">
+          <t>танков</t>
+          <sense class="Inan.Gen.Masc.Plur"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.11.morpheme.1">
+              <t>танк</t>
+              <lemma class="танк"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.11.morpheme.2">
+              <t>-ов</t>
+              <lemma class="-ов"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Inan.Gen.Masc.Plur"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.12">
+          <t>и</t>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.12.morpheme.1">
+              <t>и</t>
+              <lemma class="и"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.13">
+          <t>тысяча</t>
+          <sense class="Inan.Nom.Fem.Sing"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.13.morpheme.1">
+              <t>тысяч</t>
+              <lemma class="тысяча"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.13.morpheme.2">
+              <t>-а</t>
+              <lemma class="-а"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Inan.Nom.Fem.Sing"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.14">
+          <t>боевых</t>
+          <sense class="Gen.Pos.Plur"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.14.morpheme.1">
+              <t>боев</t>
+              <lemma class="боевой"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.14.morpheme.2">
+              <t>-ых</t>
+              <lemma class="-ых"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Gen.Pos.Plur"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.15">
+          <t>бронированных</t>
+          <sense class="Gen.Pos.Plur"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.15.morpheme.1">
+              <t>бронированн</t>
+              <lemma class="бронированный"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.15.morpheme.2">
+              <t>-ых</t>
+              <lemma class="-ых"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Gen.Pos.Plur"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.16">
+          <t>машин</t>
+          <sense class="Inan.Gen.Fem.Plur"/>
+          <morphology>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.16.morpheme.1">
+              <t>машин</t>
+              <lemma class="машина"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_WonderfulAbstractNotions.text.1.p.1.s.1.w.16.morpheme.2">
+              <t>-Ø</t>
+              <lemma class="-Ø"/>
+              <pos class="Attaches to any category"/>
+              <sense class="Inan.Gen.Fem.Plur"/>
+            </morpheme>
+          </morphology>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

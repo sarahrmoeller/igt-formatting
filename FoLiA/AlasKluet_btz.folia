@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns="http://ilk.uvt.nl/folia" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_1-SiLayakh82" version="2.5.3" generator="foliapy-v2.5.12">
+  <metadata type="native">
+    <annotations>
+      <text-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/text.foliaset.ttl"/>
+      <comment-annotation/>
+      <paragraph-annotation/>
+      <sentence-annotation/>
+      <token-annotation/>
+      <sense-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/text.foliaset.ttl"/>
+      <morphological-annotation/>
+      <lemma-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/lemma.foliaset.xml"/>
+      <pos-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/universal-pos.foliaset.ttl"/>
+    </annotations>
+  </metadata>
+  <text xml:id="_1-SiLayakh82.text.1">
+    <meta tag="title">1 - Si Layakh 8.2</meta>
+    <meta tag="source">https://kaisosogarcia.blogspot.com/2016/04/si-layakh-cerita-rakyat-dari-kutacane.html</meta>
+    <meta tag="date-created">2026-05-13 18:08:14.757</meta>
+    <meta tag="date-modified">2026-05-14 13:59:13.967</meta>
+    <comment>This appears to be a translation of part of the story from https://kaisosogarcia.blogspot.com/2016/04/si-layakh-cerita-rakyat-dari-kutacane.html. However, I have been told the Alas is good in it.</comment>
+    <p xml:id="_1-SiLayakh82.text.1.p.1">
+      <s xml:id="_1-SiLayakh82.text.1.p.1.s.1">
+        <t>khut mebelin ate te penuh hakhapen balik lah kalaki me tanoh alas khut medalan kiding memengketi nangkihe datas tanoh kakho.</t>
+        <segnum>1</segnum>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.1">
+          <t>khut</t>
+          <sense class="with"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.1.morpheme.1">
+              <t>khut</t>
+              <lemma class="khut"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="with"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.2">
+          <t>mebelin</t>
+          <sense class="to be large"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.2.morpheme.1">
+              <t>me-</t>
+              <lemma class="me-"/>
+              <pos class="Attaches to any category"/>
+              <sense class="to be"/>
+            </morpheme>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.2.morpheme.2">
+              <t>belin</t>
+              <lemma class="mbelin"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="large"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.3">
+          <t>ate</t>
+          <sense class="heart"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.3.morpheme.1">
+              <t>ate</t>
+              <lemma class="ate"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="heart"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.4">
+          <t>te</t>
+          <sense class="and"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.4.morpheme.1">
+              <t>te</t>
+              <lemma class="te"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="and"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.5">
+          <t>penuh</t>
+          <sense class="to be full"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.5.morpheme.1">
+              <t>penuh</t>
+              <lemma class="penuh"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="to be full"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.6">
+          <t>hakhapen</t>
+          <sense class="hope, to"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.6.morpheme.1">
+              <t>hakhap</t>
+              <lemma class="hakhap"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="hope, to"/>
+            </morpheme>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.6.morpheme.2">
+              <t>-en</t>
+              <lemma class="-en"/>
+              <pos class="Attaches to any category"/>
+              <sense class="object of verb"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.7">
+          <t>balik lah</t>
+          <sense class="return home, to"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.7.morpheme.1">
+              <t>balik</t>
+              <lemma class="bhalik"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="return home, to"/>
+            </morpheme>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.7.morpheme.2">
+              <t>=lah</t>
+              <lemma class="=lah"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="=fronted element"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.8">
+          <t>kalaki</t>
+          <sense class="3mp"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.8.morpheme.1">
+              <t>kalaki</t>
+              <lemma class="kalaki"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="3mp"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.9">
+          <t>me</t>
+          <sense class="to, toward (a place)"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.9.morpheme.1">
+              <t>me</t>
+              <lemma class="bhe"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="to, toward (a place)"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.10">
+          <t>tanoh</t>
+          <sense class="land"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.10.morpheme.1">
+              <t>tanoh</t>
+              <lemma class="tanoh"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="land"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.11">
+          <t>alas</t>
+          <sense class="alas"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.11.morpheme.1">
+              <t>alas</t>
+              <lemma class="alas"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.12">
+          <t>khut</t>
+          <sense class="with"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.12.morpheme.1">
+              <t>khut</t>
+              <lemma class="khut"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="with"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.13">
+          <t>medalan kiding</t>
+          <sense class="travel by foot"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.13.morpheme.1">
+              <t>me-</t>
+              <lemma class="me-"/>
+              <pos class="Attaches to any category"/>
+              <sense class="to do"/>
+            </morpheme>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.13.morpheme.2">
+              <t>dalan</t>
+              <lemma class="dhalan"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="road"/>
+            </morpheme>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.13.morpheme.3">
+              <t>kiding</t>
+              <lemma class="kidhing"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="foot"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.14">
+          <t>memengketi</t>
+          <sense class="to enter"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.14.morpheme.1">
+              <t>mem-</t>
+              <lemma class="meN-"/>
+              <pos class="Attaches to any category"/>
+              <sense class="active voice"/>
+            </morpheme>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.14.morpheme.2">
+              <t>mengket</t>
+              <lemma class="mengket"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="enter, to"/>
+            </morpheme>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.14.morpheme.3">
+              <t>-i</t>
+              <lemma class="-i"/>
+              <pos class="Attaches to any category"/>
+              <sense class="durative?"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.15">
+          <t>nangkihe</t>
+          <sense class="go up, climb"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.15.morpheme.1">
+              <t>nangkihe</t>
+              <lemma class="nangkihe"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="go up, climb"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.16">
+          <t>datas</t>
+          <sense class="top"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.16.morpheme.1">
+              <t>datas</t>
+              <lemma class="datas"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="top"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.17">
+          <t>tanoh</t>
+          <sense class="land"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.17.morpheme.1">
+              <t>tanoh</t>
+              <lemma class="tanoh"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="land"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.18">
+          <t>kakho</t>
+          <sense class="Karo"/>
+          <morphology>
+            <morpheme xml:id="_1-SiLayakh82.text.1.p.1.s.1.w.18.morpheme.1">
+              <t>kakho</t>
+              <lemma class="kakho"/>
+              <pos class="&lt;Not Sure&gt;"/>
+              <sense class="Karo"/>
+            </morpheme>
+          </morphology>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

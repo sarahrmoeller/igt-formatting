@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns="http://ilk.uvt.nl/folia" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_test-s28" version="2.5.3" generator="foliapy-v2.5.12">
+  <metadata type="native">
+    <annotations>
+      <text-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/text.foliaset.ttl"/>
+      <comment-annotation/>
+      <paragraph-annotation/>
+      <sentence-annotation/>
+      <token-annotation/>
+      <sense-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/text.foliaset.ttl"/>
+      <morphological-annotation/>
+      <lemma-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/lemma.foliaset.xml"/>
+      <pos-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/universal-pos.foliaset.ttl"/>
+    </annotations>
+  </metadata>
+  <text xml:id="_test-s28.text.1">
+    <meta tag="title">test-s28</meta>
+    <meta tag="source">hi_hdtb-ud-test.conllu Hindi UD treebank</meta>
+    <meta tag="date-created">2026-05-11 17:42:27.298</meta>
+    <meta tag="date-modified">2026-05-15 13:22:58.598</meta>
+    <p xml:id="_test-s28.text.1.p.1">
+      <s xml:id="_test-s28.text.1.p.1.s.1">
+        <t>इंदौर में जिस प्रकार से शेरोंवाली माँ की पूजा आस्था तथा विश्वास के साथ की जाती है उसी विश्वास के साथ कोलकाता में काली माँ की पूजा की जाती है ।</t>
+        <segnum>1</segnum>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.1">
+          <t>इंदौर</t>
+          <sense class="NNP.Acc.Masc.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.1.morpheme.1">
+              <t>इंदौर</t>
+              <lemma class="इंदौर"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.2">
+          <t>में</t>
+          <sense class="PSP.Post"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.2.morpheme.1">
+              <t>में</t>
+              <lemma class="में"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.3">
+          <t>जिस प्रकार से</t>
+          <sense class="DEM.Acc.Sing.3.Dem NOUN.Acc.Masc.Sing.3 PSP.Post"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.3.morpheme.1">
+              <t>जिस</t>
+              <lemma class="जो"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.3.morpheme.2">
+              <t>प्रकार</t>
+              <lemma class="प्रकार"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.3.morpheme.3">
+              <t>से</t>
+              <lemma class="से"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.4">
+          <t>शेरोंवाली माँ</t>
+          <sense class="NNPC.Nom.Fem.Sing.3 NNP.Acc.Fem.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.4.morpheme.1">
+              <t>शेरोंवाली</t>
+              <lemma class="शेरोंवाली"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.4.morpheme.2">
+              <t>माँ</t>
+              <lemma class="माँ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.5">
+          <t>की</t>
+          <sense class="PSP.Post.Nom.Fem.Sing"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.5.morpheme.1">
+              <t>का</t>
+              <lemma class="का"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.6">
+          <t>पूजा</t>
+          <sense class="NN.Nom.Fem.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.6.morpheme.1">
+              <t>पूजा</t>
+              <lemma class="पूजा"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.7">
+          <t>आस्था</t>
+          <sense class="NN.Acc.Fem.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.7.morpheme.1">
+              <t>आस्था</t>
+              <lemma class="आस्था"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.8">
+          <t>तथा</t>
+          <sense class="CC"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.8.morpheme.1">
+              <t>तथा</t>
+              <lemma class="तथा"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.9">
+          <t>विश्वास</t>
+          <sense class="NN.Acc.Masc.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.9.morpheme.1">
+              <t>विश्वास</t>
+              <lemma class="विश्वास"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.10">
+          <t>के</t>
+          <sense class="PSP.Post"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.10.morpheme.1">
+              <t>के</t>
+              <lemma class="के"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.11">
+          <t>साथ</t>
+          <sense class="NST.Post.Nom.Masc.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.11.morpheme.1">
+              <t>साथ</t>
+              <lemma class="साथ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.12">
+          <t>की</t>
+          <sense class="VM.Perf.Fem.Sing.3.Part.Act"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.12.morpheme.1">
+              <t>का</t>
+              <lemma class="का"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.13">
+          <t>जाती</t>
+          <sense class="VAUX.Imp.Fem.Sing.Part"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.13.morpheme.1">
+              <t>जाती</t>
+              <lemma class="जाती"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.14">
+          <t>है</t>
+          <sense class="VAUX.Ind.Sing.3.Pres.Fin"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.14.morpheme.1">
+              <t>है</t>
+              <lemma class="है"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.15">
+          <t>उसी</t>
+          <sense class="DEM.Acc.Sing.3.Dem"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.15.morpheme.1">
+              <t>उसी</t>
+              <lemma class="उसी"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.16">
+          <t>विश्वास</t>
+          <sense class="NN.Acc.Masc.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.16.morpheme.1">
+              <t>विश्वास</t>
+              <lemma class="विश्वास"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.17">
+          <t>के</t>
+          <sense class="PSP.Post"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.17.morpheme.1">
+              <t>के</t>
+              <lemma class="के"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.18">
+          <t>साथ</t>
+          <sense class="NST.Post.Nom.Masc.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.18.morpheme.1">
+              <t>साथ</t>
+              <lemma class="साथ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.19">
+          <t>कोलकाता</t>
+          <sense class="NNP.Acc.Masc.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.19.morpheme.1">
+              <t>कोलकाता</t>
+              <lemma class="कोलकाता"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.20">
+          <t>में</t>
+          <sense class="PSP.Post"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.20.morpheme.1">
+              <t>में</t>
+              <lemma class="में"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.21">
+          <t>काली माँ</t>
+          <sense class="NNP.Nom.Fem.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.21.morpheme.1">
+              <t>काली</t>
+              <lemma class="काली"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.21.morpheme.2">
+              <t>माँ</t>
+              <lemma class="माँ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.22">
+          <t>की</t>
+          <sense class="PSP.Post.Nom.Fem.Sing"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.22.morpheme.1">
+              <t>का</t>
+              <lemma class="का"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.23">
+          <t>पूजा</t>
+          <sense class="NN.Nom.Fem.Sing.3"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.23.morpheme.1">
+              <t>पूजा</t>
+              <lemma class="पूजा"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.24">
+          <t>की</t>
+          <sense class="VM.Perf.Fem.Sing.3.Part.Act"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.24.morpheme.1">
+              <t>की</t>
+              <lemma class="करना"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.25">
+          <t>जाती</t>
+          <sense class="VAUX.Imp.Fem.Sing.Part"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.25.morpheme.1">
+              <t>जाती</t>
+              <lemma class="जाती"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_test-s28.text.1.p.1.s.1.w.26">
+          <t>है</t>
+          <sense class="VAUX.Ind.Sing.3.Pres.Fin"/>
+          <morphology>
+            <morpheme xml:id="_test-s28.text.1.p.1.s.1.w.26.morpheme.1">
+              <t>है</t>
+              <lemma class="है"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

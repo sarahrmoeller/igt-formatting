@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns="http://ilk.uvt.nl/folia" xmlns:xlink="http://www.w3.org/1999/xlink" xml:id="_grammarbook_sjo_p5_97" version="2.5.3" generator="foliapy-v2.5.12">
+  <metadata type="native">
+    <annotations>
+      <text-annotation set="https://raw.githubusercontent.com/proycon/folia/master/setdefinitions/text.foliaset.ttl"/>
+      <comment-annotation/>
+      <paragraph-annotation/>
+      <sentence-annotation/>
+      <token-annotation/>
+      <sense-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/text.foliaset.ttl"/>
+      <morphological-annotation/>
+      <lemma-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/lemma.foliaset.xml"/>
+      <pos-annotation set="https://github.com/proycon/folia/blob/master/setdefinitions/universal-pos.foliaset.ttl"/>
+    </annotations>
+  </metadata>
+  <text xml:id="_grammarbook_sjo_p5_97.text.1">
+    <meta tag="title">grammarbook_sjo_p5_97</meta>
+    <meta tag="source">File: sjo_xdt-ud-test.conllu | Corpus: UD Xibe Treebank</meta>
+    <meta tag="date-created">2026-05-12 14:54:52.949</meta>
+    <meta tag="date-modified">2026-05-15 13:44:47.112</meta>
+    <p xml:id="_grammarbook_sjo_p5_97.text.1.p.1">
+      <s xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1">
+        <t>ᡝᠷᡝ ᠣᠴᡞ ᠠᠪᡣᠠᡞ ᠸᡝᡥᡞᠶᡝᡥᡝ ᡝᡪᡝᠨ ᡞ ᡥᡝᠰᡝ ᠪᡝ ᠠᠯᡞᡫᡞ , ᠮᡠᡣᡩᡝᠨ ᡞ ᡥᠠᠷᠠᡢᡤᠠ ᠪᠠ ᡩᡝᠷᡞ ᡨᠣᠮᡞᠯᠠᡫᡞ , ᡞᠯᡞ ᠪᠠ ᡩᡝ ᡨᡝᠪᡠᠨᡝᠮᡝ , ᡤᡠᠷᡠᠨ ᡞ ᡪᡝᠴᡝᠨ ᠪᡝ ᠰᡝᠷᡝᠮᡧᡝᠮᡝ ᡨᡠᠸᠠᡣᡞᠶᠠᠷᠠ ᡝᠮᡠ ᠮᡞᡢᡤᠠᠨ ᠰᡞᠪᡝ  ᡞ ᡥᠠᡫᠠᠨ ᠴᠣᡠᡥᠠ ᡞ ᡪᠠᡞ ᠮᡝᠶᡝᠨ ᡞᠨᡠ 。</t>
+        <segnum>1</segnum>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.1">
+          <t>ᡝᠷᡝ</t>
+          <sense class="Dem"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.1.morpheme.1">
+              <t>ᡝᠷᡝ</t>
+              <lemma class="ᡝᠷᡝ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.2">
+          <t>ᠣᠴᡞ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.2.morpheme.1">
+              <t>ᠣᠴᡞ</t>
+              <lemma class="ᠣᠴᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.3">
+          <t>ᠠᠪᡣᠠᡞ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.3.morpheme.1">
+              <t>ᠠᠪᡣᠠᡞ</t>
+              <lemma class="ᠠᠪᡣᠠᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.4">
+          <t>ᠸᡝᡥᡞᠶᡝᡥᡝ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.4.morpheme.1">
+              <t>ᠸᡝᡥᡞᠶᡝᡥᡝ</t>
+              <lemma class="ᠸᡝᡥᡞᠶᡝᡥᡝ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.5">
+          <t>ᡝᡪᡝᠨ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.5.morpheme.1">
+              <t>ᡝᡪᡝᠨ</t>
+              <lemma class="ᡝᡪᡝᠨ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.6">
+          <t>ᡞ</t>
+          <sense class="Gen"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.6.morpheme.1">
+              <t>ᡞ</t>
+              <lemma class="ᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.7">
+          <t>ᡥᡝᠰᡝ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.7.morpheme.1">
+              <t>ᡥᡝᠰᡝ</t>
+              <lemma class="ᡥᡝᠰᡝ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.8">
+          <t>ᠪᡝ</t>
+          <sense class="Acc"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.8.morpheme.1">
+              <t>ᠪᡝ</t>
+              <lemma class="ᠪᡝ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.9">
+          <t>ᠠᠯᡞᡫᡞ</t>
+          <sense class="Perf.Conv"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.9.morpheme.1">
+              <t>ᠠᠯᡞᡫᡞ</t>
+              <lemma class="ᠠᠯᡞᠮᠪᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.10">
+          <t>ᠮᡠᡣᡩᡝᠨ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.10.morpheme.1">
+              <t>ᠮᡠᡣᡩᡝᠨ</t>
+              <lemma class="ᠮᡠᡣᡩᡝᠨ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.11">
+          <t>ᡞ</t>
+          <sense class="Gen"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.11.morpheme.1">
+              <t>ᡞ</t>
+              <lemma class="ᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.12">
+          <t>ᡥᠠᠷᠠᡢᡤᠠ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.12.morpheme.1">
+              <t>ᡥᠠᠷᠠᡢᡤᠠ</t>
+              <lemma class="ᡥᠠᠷᠠᡢᡤᠠ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.13">
+          <t>ᠪᠠ</t>
+          <sense class="Gen"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.13.morpheme.1">
+              <t>ᠪᠠ</t>
+              <lemma class="ᠪᠠ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.14">
+          <t>ᡩᡝᠷᡞ</t>
+          <sense class="Abl"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.14.morpheme.1">
+              <t>ᡩᡝᠷᡞ</t>
+              <lemma class="ᡩᡝᠷᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.15">
+          <t>ᡨᠣᠮᡞᠯᠠᡫᡞ</t>
+          <sense class="Perf.Conv"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.15.morpheme.1">
+              <t>ᡨᠣᠮᡞᠯᠠᡫᡞ</t>
+              <lemma class="ᡨᠣᠮᡞᠯᠠᠮᠪᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.16">
+          <t>ᡞᠯᡞ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.16.morpheme.1">
+              <t>ᡞᠯᡞ</t>
+              <lemma class="ᡞᠯᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.17">
+          <t>ᠪᠠ</t>
+          <sense class="Gen"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.17.morpheme.1">
+              <t>ᠪᠠ</t>
+              <lemma class="ᠪᠠ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.18">
+          <t>ᡩᡝ</t>
+          <sense class="Lat"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.18.morpheme.1">
+              <t>ᡩᡝ</t>
+              <lemma class="ᡩᡝ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.19">
+          <t>ᡨᡝᠪᡠᠨᡝᠮᡝ</t>
+          <sense class="Imp.Conv"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.19.morpheme.1">
+              <t>ᡨᡝᠪᡠᠨᡝᠮᡝ</t>
+              <lemma class="ᡨᡝᠪᡠᠨᡝᠮᠪᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.20">
+          <t>ᡤᡠᠷᡠᠨ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.20.morpheme.1">
+              <t>ᡤᡠᠷᡠᠨ</t>
+              <lemma class="ᡤᡠᠷᡠᠨ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.21">
+          <t>ᡞ</t>
+          <sense class="Gen"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.21.morpheme.1">
+              <t>ᡞ</t>
+              <lemma class="ᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.22">
+          <t>ᡪᡝᠴᡝᠨ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.22.morpheme.1">
+              <t>ᡪᡝᠴᡝᠨ</t>
+              <lemma class="ᡪᡝᠴᡝᠨ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.23">
+          <t>ᠪᡝ</t>
+          <sense class="Acc"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.23.morpheme.1">
+              <t>ᠪᡝ</t>
+              <lemma class="ᠪᡝ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.24">
+          <t>ᠰᡝᠷᡝᠮᡧᡝᠮᡝ</t>
+          <sense class="Imp.Conv"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.24.morpheme.1">
+              <t>ᠰᡝᠷᡝᠮᡧᡝᠮᡝ</t>
+              <lemma class="ᠰᡝᠷᡝᠮᡧᡝᠮᠪᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.25">
+          <t>ᡨᡠᠸᠠᡣᡞᠶᠠᠷᠠ</t>
+          <sense class="Imp.Part"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.25.morpheme.1">
+              <t>ᡨᡠᠸᠠᡣᡞᠶᠠᠷᠠ</t>
+              <lemma class="ᡨᡠᠸᠠᡣᡞᠶᠠᠮᠪᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.26">
+          <t>ᡝᠮᡠ</t>
+          <sense class="Card"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.26.morpheme.1">
+              <t>ᡝᠮᡠ</t>
+              <lemma class="ᡝᠮᡠ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.27">
+          <t>ᠮᡞᡢᡤᠠᠨ</t>
+          <sense class="Card"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.27.morpheme.1">
+              <t>ᠮᡞᡢᡤᠠᠨ</t>
+              <lemma class="ᠮᡞᡢᡤᠠᠨ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.28">
+          <t>ᠰᡞᠪᡝ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.28.morpheme.1">
+              <t>ᠰᡞᠪᡝ</t>
+              <lemma class="ᠰᡞᠪᡝ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.29">
+          <t>ᡞ</t>
+          <sense class="Gen"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.29.morpheme.1">
+              <t>ᡞ</t>
+              <lemma class="ᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.30">
+          <t>ᡥᠠᡫᠠᠨ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.30.morpheme.1">
+              <t>ᡥᠠᡫᠠᠨ</t>
+              <lemma class="ᡥᠠᡫᠠᠨ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.31">
+          <t>ᠴᠣᡠᡥᠠ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.31.morpheme.1">
+              <t>ᠴᠣᡠᡥᠠ</t>
+              <lemma class="ᠴᠣᡠᡥᠠ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.32">
+          <t>ᡞ</t>
+          <sense class="Gen"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.32.morpheme.1">
+              <t>ᡞ</t>
+              <lemma class="ᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.33">
+          <t>ᡪᠠᡞ</t>
+          <sense class="Ord"/>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.33.morpheme.1">
+              <t>ᡪᠠᡞ</t>
+              <lemma class="ᡪᠠᡞ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.34">
+          <t>ᠮᡝᠶᡝᠨ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.34.morpheme.1">
+              <t>ᠮᡝᠶᡝᠨ</t>
+              <lemma class="ᠮᡝᠶᡝᠨ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+        <w xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.35">
+          <t>ᡞᠨᡠ</t>
+          <morphology>
+            <morpheme xml:id="_grammarbook_sjo_p5_97.text.1.p.1.s.1.w.35.morpheme.1">
+              <t>ᡞᠨᡠ</t>
+              <lemma class="ᡞᠨᡠ"/>
+              <pos class="&lt;Not Sure&gt;"/>
+            </morpheme>
+          </morphology>
+        </w>
+      </s>
+    </p>
+    <p xml:id="_grammarbook_sjo_p5_97.text.1.p.2"/>
+  </text>
+</FoLiA>
